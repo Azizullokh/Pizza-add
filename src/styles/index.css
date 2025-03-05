@@ -106,7 +106,6 @@ button {
 @media (max-width: 600px) {
     .root {
         grid-template-columns: 1fr;
-        /* Bitta ustun kichik ekranlarda */
         gap: 10px;
     }
 }

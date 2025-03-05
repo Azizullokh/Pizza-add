@@ -1,15 +1,15 @@
 {
-  "name": "pizza",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "parcel": "^2.13.3"
-  }
+    "name": "pizza",
+    "version": "1.0.0",
+    "source": "index.html",
+    "scripts": {
+        "build": "parcel build index.html"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "parcel": "^2.13.3"
+    }
 }
