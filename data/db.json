@@ -1,0 +1,35 @@
+{
+  "pizzas": [
+    {
+      "id": 1741189520673,
+      "title": "Pizza",
+      "description": "Good pizza",
+      "toppings": [
+        "peppers"
+      ],
+      "price": 123
+    },
+    {
+      "id": 1741189722561,
+      "title": "Helo",
+      "description": "eee",
+      "toppings": [
+        "mushrooms"
+      ],
+      "price": 45
+    },
+    {
+      "id": 1741189751521,
+      "title": "2qwdq",
+      "description": "qwdqwdq",
+      "toppings": [
+        "mushrooms",
+        "peppers",
+        "sweetcorn",
+        "olives",
+        "pineapple"
+      ],
+      "price": 1
+    }
+  ]
+}
